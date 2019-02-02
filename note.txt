@@ -1,0 +1,2 @@
+In order to use this project you need give username,password and URL to your database after creating the same table with same column header name.
+In order to do that you have to go to controller in src folder under Controller package
